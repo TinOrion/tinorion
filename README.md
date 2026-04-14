@@ -17,11 +17,8 @@
 
 ## 🧩 Selected projects
 
-### 1) AI Dubbing Pipeline (Whisper + diarization)
-**Problem:** Manual subtitle/dubbing workflow was slow.  
-**Approach:** FastAPI + workers; OpenAI Whisper for ASR; **pyannote** diarization; YOLO for character tagging; React subtitle editor; Docker.  
-**Result:** faster subtitle turnaround; translation; editor with timeline + tags.  
-**Links:** Coming soon...
+### 1) AI projects
+Coming soon...
 
 ### 2) GalaxyPlay OTT Web/TV app — performance & UX
 **Problem:** Remote‑control UX friction and slow first paint on TV.  
